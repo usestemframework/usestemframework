@@ -7,6 +7,6 @@ ontos computes it, simval checks it, light-system draws it — one stream spec, 
 **Hub:** https://stemframework.org
 
 **Sources:**
-- ontos (simulation): https://github.com/im-tyler/ontos
-- simval (verification oracle): https://github.com/im-tyler/simval
-- light-system (renderer): https://github.com/im-tyler/light-system
+- ontos (simulation): https://github.com/usestemframework/ontos
+- simval (verification oracle): https://github.com/usestemframework/simval
+- light-system (renderer): https://github.com/usestemframework/light-system
